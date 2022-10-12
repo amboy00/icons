@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 26.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" focusable="false" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-	 x="0px" y="0px" viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
-<path d="M20,8H10c-1.1,0-2,0.9-2,2v10c0,1.1,0.9,2,2,2h10c1.1,0,2-0.9,2-2V10C22,8.9,21.1,8,20,8z M20,10v2H10v-2H20z M14,16v-2h2v2
-	H14z M16,18v2h-2v-2H16z M12,16h-2v-2h2V16z M18,14h2v2h-2V14z M10,18h2v2h-2V18z M18,20v-2h2v2H18z M7,16H4c-1.1,0-2-0.9-2-2V4
-	c0-1.1,0.9-2,2-2h10c1.1,0,2,0.9,2,2v3h-2V4H4v10h3V16z"/>
-<polygon points="4,8 4,6 14,6 14,7 7,7 7,8 "/>
-<rect x="4" y="10" width="3" height="2"/>
-<rect x="6" y="8" width="1" height="6"/>
-<path d="M7,7h2C7.9,7,7,7.9,7,9V7z"/>
+	 x="0px" y="0px" viewBox="0 0 30 30" style="enable-background:new 0 0 30 30;" xml:space="preserve">
+<path d="M17.5,2h-13c-1.1,0-2,0.9-2,2v13c0,1.1,0.9,2,2,2h5v-2v-2v-1.5v-1c0-1.1,0.9-2,2-2h8V10V4C19.5,2.9,18.6,2,17.5,2z M4.5,4
+	h13v2h-13V4z M4.5,8h3v2h-3V8z M7.5,17h-3v-2h3V17z M4.5,13.5v-2h3v2H4.5z M9.5,10V8h3v2H9.5z M14.5,10V8h3v2H14.5z"/>
+<path d="M25.5,11.5h-13c-1.1,0-2,0.9-2,2v13c0,1.1,0.9,2,2,2h13c1.1,0,2-0.9,2-2v-13C27.5,12.4,26.6,11.5,25.5,11.5z M12.5,17.5h3v2
+	h-3V17.5z M20.5,19.5h-3v-2h3V19.5z M20.5,21v2h-3v-2H20.5z M12.5,21h3v2h-3V21z M12.5,26.5v-2h3v2H12.5z M17.5,26.5v-2h3v2H17.5z
+	 M25.5,26.5h-3v-2h3V26.5z M25.5,23h-3v-2h3V23z M25.5,19.5h-3v-2h3V19.5z M25.5,15.5h-13v-2h13V15.5z"/>
 </svg>
